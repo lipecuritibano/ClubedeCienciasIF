@@ -1,0 +1,79 @@
+.artigo {
+	text-align: justify;
+}
+.direita{
+	float: right;
+}
+.linha {
+	text-align: justify;
+}
+.seta {
+	color:#b3b300;
+	font-size: 30px;
+}
+.seta:hover {
+	color:#ffff80;
+}
+.corcar {
+	color:#ffff66;
+}
+.carrosel{
+	margin-bottom:20px;
+}
+.conteudo{
+	margin-left:0px;
+}
+.navegacao {
+	font-family: 'Josefin Sans', sans-serif;
+}
+.rodape{
+	text-align: center;
+	background-color: rgb(0, 78, 113);
+	font-family: 'Josefin Sans', sans-serif;
+	color:#ffff66;
+}
+.cornav{
+	background-color: rgb(0, 78, 113);
+	color:#ffff4d;
+	font-family: 'Josefin Sans', sans-serif
+}
+body {
+	background-color: #005580;
+	color:#ffff80;
+	font-family: 'Josefin Sans', sans-serif
+}
+.lista{
+	color:#b3b300;
+}
+.ativo{
+	color:#ffff4d;
+}
+.lista:hover{
+color:#ffff4d;
+}
+.ativo:hover{
+color:#ffff4d;
+}
+.botao {
+	
+	background-color:#b3b300;
+	color: rgb(0, 78, 113);
+	font-family: 'Josefin Sans', sans-serif
+}
+.botao:hover{
+	background-color:#ffff4d;	
+	color: rgb(0, 78, 113);
+	font-family: 'Josefin Sans', sans-serif
+}
+.login-form{
+	display: none;
+}
+.noticia{
+	text-align: center;
+}
+.tabela {
+	background-color:#b3b300;
+	color: #005580;
+	border-color:#005580;
+}
+

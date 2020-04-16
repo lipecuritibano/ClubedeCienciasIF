@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <title>IF Science Club</title>
+  <meta charset="utf-8">
+  <link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+   <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
+
+
+<header>
+	<nav class="navegacao navbar navbar-expand-md cornav fixed-top">
+  <a class="navbar-brand ativo" href="index.html">IF Science Club</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="Navbar">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link ativo" href="index.html"><i class="fas fa-landmark"></i> Início<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link lista" href="noticias.php"><i class="fas fa-clipboard-list"></i> Notícias</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link lista" href="astronomia.html"><i class="fas fa-rocket"></i> Astronomia</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link lista" href="biologia.html"><i class="fas fa-dna"></i></i> Biologia</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link lista" href="fisica.html"><i class="fas fa-atom"></i></i></i> Física</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link lista" href="quimica.html"><i class="fas fa-flask"></i> Química</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link lista" href="sobre.html"><i class="far fa-address-card"></i> Sobre</a>
+      </li>
+        </div>
+      </li>
+    </ul>
+  </div>
+  </nav>
+
+</header>
+<!--Carrosel-->
+<div id="demo" class="carousel slide carrosel" data-ride="carousel">
+    <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+  </ul>
+
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="first-slide" src="Teste.jpg" alt="First slide">
+          <div class="container">
+          <div class="carousel-caption">
+        <h1 class="corcar">Início</h1>
+        <p class="corcar">Informações sobre as ciências</p>
+      </div>
+    </div>
+        </div>
+      
+        <div class="carousel-item">
+              <img class="first-slide" src="Teste2.jpg" alt="First slide">
+          <div class="container">
+          <div class="carousel-caption">
+        <h1 class="corcar">Cadastre-se!</h1>
+        <p class="corcar">Debata e troque ideias no fórum</p>
+      </div>
+    </div>
+        </div>
+      </div>
+
+      <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="seta"><i class="fas fa-angle-left"></i></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="seta"><i class="fas fa-angle-right"></i></span>
+  </a>
+</div>
+
+<!--Conteúdo-->
+<article>
+<div class="container">
+    <div class="row">
+		<div class="col-md-8">
+    		<p class="linha">O projeto “Clube de Ciências – IFC Sombrio” foi desenvolvido com intuito de promover a popularização da ciência, por meio de discussões de temas atuais e históricos que permeiam o desenvolvimento dos saberes científicos. Deste modo, objetiva-se aproximar os estudantes participantes dos processos de construção do conhecimento científico, demonstrando aos alunos que todos podem produzir Ciência, desmistificando-a e mostrando-lhes como uma possível área de atuação profissional. O curso será ofertado na forma de palestras, rodas de conversa, oficinas e atividades práticas.</p> 
+    	</div>
+
+<!--Formulário de Login-->
+		<div class="col-md-4 direitainicio">
+      <form action="login.php" method="post">
+      <h6>Login</h6>
+			<div class="form-group">
+				<input type="text" class="form-control" id="usr" placeholder="nome" name="nome" required>
+			</div>
+			<div class="input-group mb-3">
+				<input type="password" class="form-control" placeholder="senha" name="senha" required>
+				<div class="input-group-append">
+					<button class="btn botao" type="submit" name="entrar" id="entrar">Entrar</button>  
+				</div>
+			</div>
+</form>
+
+      <!--Formulário de cadastro-->
+      <form method="post" action="cadastro.php">
+      <h6>Cadastre-se</h6>
+      <div class="form-group">
+  <input type="text" class="form-control" id="usr" placeholder="Nome" name="nome">
+      </div>
+      <div class="form-group">
+        <input type="text" class="form-control" id="usr" placeholder="e-mail" name="email" required>
+      </div>
+      <div class="form-group">
+        <input type="password" class="form-control" placeholder="Senha" name="senha" required>
+      </div>
+      <div class="input-group mb-3">
+        <input type="password" class="form-control" placeholder="Repetir senha" name="rsenha" required>
+        <div class="input-group-append">
+          <button class="btn botao" type="submit">Cadastrar</button>  
+        </div>
+      </div>
+      </form>
+		</div>
+	</div>
+</div>
+</article>
+<footer class="rodape navbar justify-content-center">
+	<div >
+  <p><i class="far fa-copyright"></i> IF Science Club, desde 2019</p>
+  </div>
+</footer>
+
+<!--Scripts-->
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous"></script>
+<script type="main.js"></script>
+
+</body>
+</html>

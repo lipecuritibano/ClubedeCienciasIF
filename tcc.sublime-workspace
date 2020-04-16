@@ -1,0 +1,409 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"session_",
+				"session_destroy"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"co",
+				"col-lg-5"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ast",
+				"astronomia"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"sessio_",
+				"session_start"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"resul",
+				"results"
+			],
+			[
+				"cads",
+				"cadastro"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"is_int",
+				"is_integer"
+			],
+			[
+				"idade",
+				"idade"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"resu",
+				"resul"
+			],
+			[
+				"res",
+				"resultado"
+			],
+			[
+				"n",
+				"n1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"a",
+				"aplicativo"
+			],
+			[
+				"apli",
+				"Aplicativo"
+			],
+			[
+				"nav-",
+				"nav-link"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Site TCC/login.php",
+		"/C/xampp/htdocs/Site TCC/cadastro.php",
+		"/C/Users/lipec_nu3mma6/Desktop/atividade/vídeo 2/sandbox.php",
+		"/C/xampp/htdocs/Site TCC/index.html",
+		"/C/xampp/htdocs/Site TCC/user.php",
+		"/C/xampp/htdocs/Site TCC/biologia.html",
+		"/C/xampp/htdocs/Site TCC/quimica.html",
+		"/C/xampp/htdocs/Site TCC/configu.php",
+		"/C/xampp/htdocs/Site TCC/alterar.php",
+		"/C/xampp/htdocs/Site TCC/style.css",
+		"/C/xampp/htdocs/Site TCC/deletar.php",
+		"/C/xampp/htdocs/Site TCC/sair.php",
+		"/C/Users/lipec_nu3mma6/Desktop/atividade/two.php",
+		"/C/Users/lipec_nu3mma6/Desktop/atividade/one.php",
+		"/C/xampp/htdocs/Site TCC/fisica.html",
+		"/C/xampp/htdocs/Site TCC/sobre.html",
+		"/C/xampp/htdocs/Site TCC/noticias.html",
+		"/C/xampp/htdocs/Site TCC/astronomia.html",
+		"/C/xampp/htdocs/Site TCC/sitebd.php",
+		"/C/xampp/htdocs/Sistema_de_cadastro_com_imagem/index.php",
+		"/C/xampp/htdocs/Sistema_de_cadastro_com_imagem/db.php",
+		"/C/xampp/htdocs/Sistema_de_cadastro_com_imagem/Sistema de cadastro com imagem/edit.php",
+		"/C/xampp/htdocs/Sistema_de_cadastro_com_imagem/Sistema de cadastro com imagem/header.php",
+		"/C/xampp/htdocs/Sistema_de_cadastro_com_imagem/Sistema de cadastro com imagem/add.php",
+		"/C/xampp/htdocs/Sistema_de_cadastro_com_imagem/Sistema de cadastro com imagem/delete.php",
+		"/C/xampp/htdocs/progwebphp2/conecta.php",
+		"/C/xampp/htdocs/progwebphp2/formulario.php",
+		"/C/xampp/htdocs/Site TCC/index.php",
+		"/C/xampp/htdocs/progweb3/form.php",
+		"/C/xampp/htdocs/progweb3/cadastrar.php",
+		"/C/xampp/htdocs/progwebphp2/cadastrar.php",
+		"/C/xampp/htdocs/progwebphp2/index.php",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Site TCC/style.css",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Site TCC/index.html",
+		"/C/xampp/htdocs/progwebphp1/form.php",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Site TCC/sobre.html",
+		"/C/xampp/htdocs/progwebphp1/index.html",
+		"/C/xampp/htdocs/progwebphp1/formulario.html",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Site TCC/sitebd.php",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Site TCC/main.js",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Site TCC/fontes.css",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Site TCC/astronomia.html",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Site TCC/quimica.html",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Site TCC/noticias.html",
+		"/C/Users/lipec_nu3mma6/Desktop/2° Ano/Programação Web/main.js",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Site TCC/aplicativo.html",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Site TCC/font-awesome.css",
+		"/C/Users/lipec_nu3mma6/Desktop/2° Ano/Programação Web/calculadora.html",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Site TCC/bootstrap.css",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Site TCC/bootstrap-social.css",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Site TCC/docs.css",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Site TCC/favicon.png",
+		"/C/Users/lipec_nu3mma6/Desktop/2° Ano/Programação Web/beginner-html-site-styled-gh-pages/index.html",
+		"/C/Users/lipec_nu3mma6/Desktop/2° Ano/Programação Web/beginner-html-site-styled-gh-pages/scripts/main.js",
+		"/C/Users/lipec_nu3mma6/Desktop/2° Ano/Programação Web/Restaurante/aboutus.html",
+		"/C/Users/lipec_nu3mma6/Desktop/2° Ano/Programação Web/Restaurante/index_completo.html",
+		"/C/Users/lipec_nu3mma6/Desktop/2° Ano/Programação Web/Restaurante/contactus.html",
+		"/C/Users/lipec_nu3mma6/Desktop/2° Ano/Programação Web/Restaurante/._contactus.html",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Novo Site/sobre.html",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Novo Site/index.html",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Novo Site/quimica.html",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Novo Site/style.css",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Novo Site/aplicativo.html",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Novo Site/noticias.html",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Novo Site/astronomia.html",
+		"/C/Users/lipec_nu3mma6/Desktop/2° Ano/Programação Web/Restaurante/css/styles.css",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Novo Site/Teste.html",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Novo Site/Astrofisica.html",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Novo Site/Quimica.html",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Novo Site/Astrofísica.html",
+		"/C/Users/lipec_nu3mma6/Desktop/TCC/Novo Site/Química.html",
+		"/C/Users/lipec_nu3mma6/Desktop/2° Ano/Programação Web/index (1).html",
+		"/C/Users/lipec_nu3mma6/Desktop/2° Ano/Programação Web/styles.css"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 60.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tcc.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
